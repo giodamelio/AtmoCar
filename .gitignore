@@ -1,7 +1,8 @@
 old
-node_modules
+.build
 .dropbox
 .DS_Store
 .VolumeIcon.icns
 .fseventsd
-Icon
+Icon
+
