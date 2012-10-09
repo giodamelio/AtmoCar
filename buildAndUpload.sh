@@ -1,3 +1,3 @@
 ino clean
-ino build
+ino build || { exit; }
 ino upload
